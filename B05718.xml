@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, ordering the payment of provisions for the forces, and redressing abuses committed by them.</title>
+            <author>Scotland. Sovereign (1689-1694 : William and Mary)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05718</idno>
+            <idno type="STC">Wing S1963</idno>
+            <idno type="STC">ESTC R183577</idno>
+            <idno type="EEBO-CITATION">53299299</idno>
+            <idno type="OCLC">ocm 53299299</idno>
+            <idno type="VID">180029</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05718)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180029)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2810:54)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, ordering the payment of provisions for the forces, and redressing abuses committed by them.</title>
+                  <author>Scotland. Sovereign (1689-1694 : William and Mary)</author>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  Appropriations and expenditures --  Early works to 1800.</term>
+               <term>Military law --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:180029:1"/>
+            <head>
+               <hi>A PROCLAMATION.</hi> Ordering the Payment of proviſions for the Forces, and Redreſſing Abuſes Committed by them.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">W</seg>ILLIAM and MARY, by the Grace of God, King, and Queen of great Britain, <hi>France</hi> and <hi>Ireland,</hi> Defenders of the Faith.</signed>
+               <salute>To Macers of our Privy Coun<g ref="char:EOLhyphen"/>ci1, Meſſengers at Arms, Our Sheriffs in that part, Conjunctly and Severally, Specially Conſtitute, Greeting.</salute>
+            </opener>
+            <p>For as much as by diverſe Laws and Acts of Parliament, made by our Royal Predeceſſors, all free quartering of Souldiers in Tranſient or Local Quarters, and all Localities for furniſhing or Carrying Corn, Straw; Hay, or Graſs to Souldiers Horſes, is expreſly Prohibited and Diſcharged, and by an Eſtabliſhment under Our Royal Hand, There being Meaſures laid down, and Fonds appropriat for the exact and punctual Payment of the ſtanding Forces and Garriſons within this Our Ancient Kingdom, and a Commiſſary appointed for making due and Regular Proviſions of Corn, Straw, and Graſs, for the Horſes and Dragoons preſently under Our Pay, and in Our Service within this Our Ancient Kingdom, by ready Money, or otherwiſe as be can beſt Bargain with any of Our Leidges for their Corn, Straw, and Graſs. Whereby the abuſes heretofore done and commit<g ref="char:EOLhyphen"/>ted upon any of Our Leidges, by the Illegal exacting Locality or free Quarter, may be Remeeded and Prevented, and all Mans-meat, and Horſe-meat furniſh<g ref="char:EOLhyphen"/>ed to any Officers or Souldiers in our Service within this Our Ancient Kingdom, duely payed. And we conſidering how neceſſary it is, that all Our Good Subjects ſhould know by whom, and in what manner they are to be payed for all proviſions of Corn, Straw, and Graſs for Horſes, and Meat and Drink to be furniſhed to Our Officers and Souldiers, by them or any of them; and that all Officers and Souldiers within this Our ſaid Ancient Kingdom may Govern and Regular themſelves, and the Troups under their Command accordingly, as they will be Anſwerable. We, with Advice of the Lords of Our Privy Council, Require and Command the Commiſſary General, appointed and received by the Lords of Our Theſaurie, to make Due and Timous Proviſions of Oats, Straw, and Graſs, for all Horſe and Dragoons at preſent under Our Pay, and in Our Service within this Our Ancient King<g ref="char:EOLhyphen"/>dom, in their Reſpective, Tranſient, and Local Quarter: And that the ſame may be the more orderly and effectually done, we Require and command all Our Officers, who command the ſaids Troops, to give timely Notice to the ſaid Commſſary of their Removal to and from Local Quarters, and of the Rout appointed for their March in Tranſient Quarters, that proviſions may be ready accordingly. And in caſe any parties be called to March, upon ſudden Commands, which may not be fit to Impart to the Commiſſary: Then We with advice foreſaid, ſtrictly Charge and Require the Commanders of the ſeveral. Parties, to buy with Ready Money the Oats, Straw, and Graſs, neceſſary for their Horſes, as any other of Our Leidges is in uſe to do, and what he ſhall depurſe or expend thereon: We hereby Require and Command our ſaid Commſſary to refound and repay the ſame. And we with Advice of our Privy Council, do hereby expreſly Require and Command Our Commiſſary General by himſelf, or Fit Perſons imployed and intruſted by him to attend at the Ma<g ref="char:EOLhyphen"/>gazins which ſhall be provided for Our Troops at their Reſpective Quarters, two Hours each Day. <hi>viz.</hi> Betwixt ten and twelve in the Fore noon, at leſt to attend the two Hours above-named upon one or moe dayes of each week, ſuch as ſhall be particularly agreed upon betwixt the Commiſſary and the Officers, to the effect the proviſions may be given out by the Commiſſary, and received by the Officers or Soldiers timouſly, and with<g ref="char:EOLhyphen"/>out diſorder or Confuſion, and hereby all Officers and Souldiers are peremptorly Prohibited and Diſcharged to offer any Injurie or Abuſe to our ſaid Com<g ref="char:EOLhyphen"/>miſſary, or his Deputs, as they will be anſwerable at their higheſt Peril. And ſicklike, We with advice foreſaid, peremptorly Require and Command the Officer Commanding in Chief, in any place of Local or Tranſient Quarters, to ſee the hall Meat and Drink furniſhed to the Soldiers and Officers under his Command, by the Land-Lords of their Quarters, exactly and compleatly payed at the ordinary Rates of the Countrey: And in Caſe there ſhall be any ex<g ref="char:EOLhyphen"/>action or diſcharge of free Quarters Extorted, or abatements exacted below the ordinary Rates, or any other abuſe Committed; We, with advice foreſaid, Require and Command the Commanding Officer there for the time, to make payment by ready Money for the whole Souldiers and Officers on the place, in their Local Quarters, once every Week ar Fartheſt, and Traſinent Quarters before Removeal, if they ſtay a ſhorter time then a Week, under the pain of Caſheir<g ref="char:EOLhyphen"/>ing and breaking the ſaid Commanding Officer, upon complaint of his Tranſgreſling the Premiſſes, to be made by the party Injured to our privy Council, or to the Sheriff or his Depute, Baillie of Regality, or his Depute, Stewart of the Stewartrie, or his Depute, or any two Commiſſioners of Supply of the Bounds and Shire, where the ſaids Abuſe, and Injuries are done and Committed, whom, or either of whom, We with advice foreſaid, Require and Com<g ref="char:EOLhyphen"/>mand to receive the ſaid Complaints, and tranſmit the ſame to the Clerks of Our Privy Council, within ten dayes after any ſuch Complaints ſhall be made to them, under the pain of being lyable to repair the party Injured themſelves: And which Complaints, We with advice foreſaid, appoint to be purſued by Our Advocat, and Solicitor upon the publick Charge. And in caſe any private Party ſhall think fit to purſue the ſame themſelves, We hereby Require and Command the Expenſes that ſhall be layed out by them, in proſecution thereof, to be Repayed and Reimburſed to them by the Lords of Our Theaſurie, alſe well as the Expenſes to be layed out by Our Solicitor, all which are to be retained and deduced by the ſaids Lords of Our Theſaurie, out of the Offi<g ref="char:EOLhyphen"/>cers pay againſt whom the ſaid Complaint is made and verified, And in csſe any Inferior Officer in Tranſient or Local Quarters, ſhall tranſgreſſe any of the premiſſes; We hereby Require and Command the Commanding Officer, upon Complaint made to him, and Proven, inſtantly to pay the Complainer what ſhall be due to him. And if the Perſon complained on be an uncommiſſionar Office, the ſaid Commander is inſtantly to break and Caſhiere him, and if he be a Commiſſionar Officer, who ſhall to Transgreſſe; We with Advice foreſaid, Require the ſaid Commanding Officer to ſuſpend him in the mean time, and imme<g ref="char:EOLhyphen"/>diatly to Repreſeni the ſame to our Privy Council, that they may give Orders for breaking and Caſhiering the Officer transgreſſing, providing the Complaints for not payment of Local Quarters, or Commiting any of the Abuſes foreſaid therein be made to the ſaid Commanding Officer, within Eight days after. Weeks Quarters are Reſting, or any other Abuſes Committed, and in Tranſient Quarters, before the parties Removal, with Certification, if payment be not craved, or Complaints made within the time foreſaid, the Commanding Officer ſhall be free, but prejudice to the Land-Lords and others to ſeek their pay<g ref="char:EOLhyphen"/>ment and Reparation from the Perſons Debitors therein, or Committers thereof, by all other Legal means, and it ſhall be ſufficient evidence that the Commanding Officer has been complained to, and Required to make payment of Proviſions furniſhed to Souldiers, Men and Horſes under his Command, or re<g ref="char:EOLhyphen"/>dreſs abuſes Committed by them, if the ſame be made to him in preſence of a Mgiſtrate within Burgh, a Juſtice of Peace or two Witneſſes. And We, With ad<g ref="char:EOLhyphen"/>vice foreſaid, do declare, that no Discharges ſhall be ſufficient for exonering the Soludiers and Officers; and Inſtructing the Payment of their Quarters, unleſs they be Subſcribed by the Maſter of the Ground, or his Chamberlain or the Officer of the Ground before two Witneſſes or a Magiſtrate within Burgh. And for preventing of a Common Abuſe done and Committed upon Our Leidges, by Souldiers and Officers, in their Marches, Preſſing and Seaſing upon Horſes for their own private Uſe and Service. We with Advice foreſaid, do ſtrictly Prohibite and Diſcharge all preſſing or Seaſing upon Horſes by any Officer of Soul<g ref="char:EOLhyphen"/>dier for their own Particular and private Service, under the pain of a Moneths pay to be retained (upon Complaint to be made and inſtructed as aforeſaid) off the Officer who Commands, and where Horſes are neceſſary for carrying Artillery, Amunition, or Proviſion, or any other uſe of the Army in the Towns, or in the Countrey, that the ſame be imployed and made uſe of, by order of the Commander of the Party, and of the Magiſtrats of Burghs joyntly, if the Horſes be furniſhed within Burgh: And by the ſaid Commander, and any one of the Commiſſioners of Supply within the Shire where the Horſes are furniſh<g ref="char:EOLhyphen"/>ed and made uſe of in Land-wart. And We with Advice foreſaid, conform to the third Act, Parliament 1681, ordain that there be payed for each day that the ſaid Horſes ſhall Travel, three Shillings Scots for each two Miles to the Man and Horie, and each day that they do not Travel, Six Shillings Scots to the Man, and as much for the Horſe, the Man being obliged to provide himſelf and the Horſe, which ſhall be payed by the Magiſtrats of the Burgh, if the Horſes be taken within a Town, or if in the Countrey, by the Collector of the Supply in the Shire, who are to be repayed thereof, Or to have the ſame al<g ref="char:EOLhyphen"/>lowed to them by the receiver General. And that the Horſes neceſſary to be made uſe of, and Imployed for the Service and Uſe of our Forces above expreſſed, may be the more Regularly and Equally proportioned and provided: We with advice foreſaid, Require and Command the Magiſtrats within Burgh, and Commiſſioners of Supply, and Juſtices of Peace in Land-wart, to cauſe provide from time to time a competent Number of Horſes, within their reſpective Bounds, for the Service of Our Forces, and the Uſes foreſaids, as they will be Anſwerabie at their Peril. And we with Advice foreſaid; Prohibit and Diſ<g ref="char:EOLhyphen"/>charge any Officer or Souldier to Seafe upon, or Preſſe any Horſes without the concourle of the Perſons above-named, or to detain them longer then one Dayes March at fartheſt: But to Reſtore and give Back the ſaids Horſes Imployed in manner foreſaid in good Caſe, under the pain of a Moneths pay to be retain<g ref="char:EOLhyphen"/>ed in manner foreſaid, off the Officer who ſhall be found to contraveen the Premiſſes, beſides the payment of the price of the Horſe to the furniſher, as the ſame ſhall be inſtructed before the Baillies within Burgh, Sheriffs, Stewarts, Baillies of Regalities, or Deputs, or Juſtices of Peace in the Countrey: And to the end Our Royal Pleaſure in the Premiſſes may be made publick and known. OUR WILL IS, And we Charge you ſtrictly, and Com<g ref="char:EOLhyphen"/>mand, that incontinent, theſe Our Letters ſeen, ye paſſe to the Mercat Croſs of <hi>Edinburgh,</hi> and all other Mercat croſſes of the Head Burghs of this King<g ref="char:EOLhyphen"/>dom, als well Royalty as Regality, and Stewartries and other places needful, and there in our Name and Authority, by open Proclamation, make Publication of the Premiſſes: And ſicklike, that all our Forces, as well as our Liedges, may have notice hereof, We do Require and Command theſe Preſents to be pub<g ref="char:EOLhyphen"/>lickly Read at the head of every Troop, and Company of our ſtanding Forces, that none may pretend Ignorance.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh,</hi> 
+                  <date>the Fourteenth day of <hi>February,</hi> and of Our Reign the fourth Year. 1693</date>.</dateline>
+               <signed>Per Actum Dominorum Secreti Concilii. In Supplementum Signeti. <hi>GILB. ELIOT,</hi> Cls. Sti. Concilii.</signed>
+            </closer>
+            <closer>GOD Save King William and Queen Mary.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to Their moſt Excellent Majeſties, <hi>Anno DOM.</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
